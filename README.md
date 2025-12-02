@@ -2,7 +2,7 @@
 
 # Database is AI Generated
 
-Fully interactive dashboard analyzing 50+ real-world Saudi retail transactions.
+Simple interactive dashboard analyzing 200 Saudi retail transactions.
 
 ## Key Features
 
