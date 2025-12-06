@@ -1,0 +1,201 @@
+﻿Order ID,Order Date,Customer Name,City,Region,Category,Sub-Category,Product Name,Sales,Quantity,Profit
+SA-2025-001,04/01/2025,Ahmad Al-Ghamdi,Jeddah,West,Electronics,Mobile Phones,Samsung Galaxy A55 5G,1899,1,570
+SA-2025-002,05/01/2025,Sara Al-Otaibi,Jeddah,West,Fashion,Women Clothing,Warm Winter Black Abaya,649,2,280
+SA-2025-003,06/01/2025,Mohammed Al-Zahrani,Makkah,West,Home Appliances,Coffee Machine,Delonghi Dedica Espresso,1599,1,520
+SA-2025-004,07/01/2025,Nora Al-Qahtani,Jeddah,West,Beauty,Perfumes,Lancome La Vie Est Belle 50ml,699,1,300
+SA-2025-005,08/01/2025,Khalid Al-Mutairi,Riyadh,Central,Electronics,Laptops,Lenovo IdeaPad 5 Ryzen 7,4399,1,1250
+SA-2025-006,09/01/2025,Fatima Al-Harbi,Jeddah,West,Fashion,Men Clothing,Winter White Thobe Cotton,449,3,200
+SA-2025-007,10/01/2025,Ali Al-Dosari,Jeddah,West,Electronics,Accessories,Apple AirPods Pro 2,1099,1,380
+SA-2025-008,11/01/2025,Reem Al-Shahrani,Dammam,East,Home,Furniture,Ergonomic Office Chair,1999,1,720
+SA-2025-009,12/01/2025,Lama Al-Ghamdi,Jeddah,West,Fashion,Watches,Casio G-Shock Black,499,1,210
+SA-2025-010,13/01/2025,Omar Al-Nasser,Riyadh,Central,Electronics,Mobile Phones,iPhone 15 128GB,4299,1,1250
+SA-2025-011,15/01/2025,Hind Al-Subaie,Jeddah,West,Beauty,Skincare,The Ordinary Niacinamide Set,399,2,180
+SA-2025-012,16/01/2025,Turki Al-Otaibi,Madinah,West,Home Appliances,Air Conditioner,18K BTU Split Inverter,3299,1,1020
+SA-2025-013,18/01/2025,Leen Al-Qurashi,Jeddah,West,Fashion,Women Clothing,Medium Leather Handbag,1599,1,620
+SA-2025-014,19/01/2025,Sultan Al-Ghamdi,Jeddah,West,Electronics,Gaming,PlayStation 5 Slim Digital,2399,1,750
+SA-2025-015,21/01/2025,Nouf Al-Harbi,Riyadh,Central,Beauty,Perfumes,Dior Sauvage Elixir 60ml,799,1,340
+SA-2025-016,23/01/2025,Yousef Al-Zahrani,Jeddah,West,Home,Furniture,6-Seater Fabric Sofa,5799,1,1850
+SA-2025-017,25/01/2025,Maha Al-Ajmi,Dammam,East,Electronics,Laptops,HP Pavilion 15 i5,3999,1,1180
+SA-2025-018,27/01/2025,Amal Al-Shamrani,Jeddah,West,Fashion,Men Clothing,Tailored Winter Suit,2799,1,1050
+SA-2025-019,29/01/2025,Bader Al-Mutairi,Jeddah,West,Electronics,Mobile Phones,Samsung S24 FE,3699,1,1120
+SA-2025-020,31/01/2025,Rawan Al-Ghamdi,Jeddah,West,Beauty,Makeup Set,Huda Beauty Mini Palette Set,1199,1,520
+SA-2025-021,02/02/2025,Faisal Al-Qahtani,Riyadh,Central,Home Appliances,Smart TV,"55"" 4K QLED",3499,1,1080
+SA-2025-022,04/02/2025,Layan Al-Otaibi,Jeddah,West,Fashion,Jewelry,18K Gold Stud Earrings,4799,1,1790
+SA-2025-023,06/02/2025,Khaled Al-Harbi,Jeddah,West,Electronics,Accessories,Apple Watch SE 44mm,1399,1,480
+SA-2025-024,08/02/2025,Shaden Al-Dosari,Makkah,West,Beauty,Perfumes,YSL Libre Intense 90ml,849,1,360
+SA-2025-025,10/02/2025,Hassan Al-Ghamdi,Jeddah,West,Home,Furniture,Modern Dining Table 8 Seats,6199,1,1980
+SA-2025-026,12/02/2025,Mariam Al-Zahrani,Jeddah,West,Fashion,Women Clothing,Winter Coat Long Black,2199,1,920
+SA-2025-027,14/02/2025,Abdulaziz Al-Shahrani,Riyadh,Central,Electronics,Gaming,Xbox Series S 1TB,1699,1,580
+SA-2025-028,17/02/2025,Dana Al-Qurashi,Jeddah,West,Beauty,Skincare,Estee Lauder DayWear Set,1799,1,750
+SA-2025-029,19/02/2025,Saad Al-Mutairi,Jeddah,West,Electronics,Laptops,Dell Inspiron 14 Plus,4899,1,1390
+SA-2025-030,21/02/2025,Lina Al-Farhan,Riyadh,Central,Fashion,Watches,Seiko 5 Automatic,1599,1,680
+SA-2025-031,23/02/2025,Rayan Al-Qahtani,Jeddah,West,Electronics,Mobile Phones,Google Pixel 9,3399,1,1050
+SA-2025-032,25/02/2025,Hala Al-Enezi,Dammam,East,Home Appliances,Washer,9kg Front Load Inverter,2899,1,950
+SA-2025-033,27/02/2025,Aseel Al-Ghamdi,Jeddah,West,Beauty,Perfumes,Chanel Chance Eau Tendre 100ml,899,1,380
+SA-2025-034,01/03/2025,Nasser Al-Subaie,Madinah,West,Home,Furniture,King Size Bed Frame,4599,1,1490
+SA-2025-035,02/03/2025,Salma Al-Harbi,Jeddah,West,Electronics,Laptops,Asus VivoBook 15 OLED,4499,1,1320
+SA-2025-036,03/03/2025,Fahad Al-Otaibi,Riyadh,Central,Home Appliances,Refrigerator,550L Side-by-Side,5999,1,1850
+SA-2025-037,04/03/2025,Jouri Al-Shammari,Jeddah,West,Fashion,Women Clothing,Ramadan Prayer Abaya Premium,899,2,380
+SA-2025-038,05/03/2025,Bandar Al-Zahrani,Dammam,East,Electronics,Gaming,Nintendo Switch OLED,1999,1,680
+SA-2025-039,06/03/2025,Latifa Al-Qurashi,Jeddah,West,Beauty,Makeup Set,Charlotte Tilbury Pillow Talk Set,1499,1,620
+SA-2025-040,07/03/2025,Mansour Al-Ghamdi,Riyadh,Central,Electronics,Accessories,Samsung Galaxy Buds 3 Pro,999,1,420
+SA-2025-041,08/03/2025,Raneem Al-Dosari,Jeddah,West,Fashion,Jewelry,Silver Necklace + Earrings Set,1399,1,580
+SA-2025-042,09/03/2025,Waleed Al-Mutairi,Makkah,West,Home Appliances,Oven,60cm Built-in Combi Oven,2699,1,920
+SA-2025-043,10/03/2025,Ghada Al-Ajmi,Jeddah,West,Beauty,Perfumes,Arabian Oud Kalemat 100ml,699,1,300
+SA-2025-044,11/03/2025,Abdullah Al-Harbi,Riyadh,Central,Electronics,Mobile Phones,Oppo Reno 12 Pro,2599,1,820
+SA-2025-045,12/03/2025,Shahad Al-Shahrani,Jeddah,West,Fashion,Men Clothing,Ramadan Thobe Luxury,1199,1,520
+SA-2025-046,13/03/2025,Yara Al-Nasser,Dammam,East,Home,Furniture,"Modern TV Stand 65""",2299,1,820
+SA-2025-047,14/03/2025,Ziad Al-Qahtani,Jeddah,West,Electronics,Laptops,HP Envy x360 14,5399,1,1580
+SA-2025-048,15/03/2025,Maram Al-Ghamdi,Riyadh,Central,Beauty,Perfumes,Lattafa Raghba 100ml,399,3,180
+SA-2025-049,15/03/2025,Lama Al-Otaibi,Jeddah,West,Fashion,Women Clothing,Ramadan Special Jalabiya,799,2,340
+SA-2025-050,15/03/2025,Fahad Al-Qurashi,Jeddah,West,Electronics,Mobile Phones,Realme 13 Pro+,2999,1,950
+SA-2025-051,16/03/2025,Nada Al-Harbi,Jeddah,West,Fashion,Women Clothing,Eid Designer Abaya Gold Thread,3499,1,1390
+SA-2025-052,17/03/2025,Sami Al-Dosari,Riyadh,Central,Electronics,Mobile Phones,iPhone 16 128GB,4999,1,1450
+SA-2025-053,18/03/2025,Rania Al-Ghamdi,Jeddah,West,Beauty,Perfumes,Creed Aventus Clone 100ml,549,2,240
+SA-2025-054,19/03/2025,Talal Al-Zahrani,Dammam,East,Home Appliances,Smart TV,"65"" QLED 4K Eid Deal",5799,1,1790
+SA-2025-055,20/03/2025,Reema Al-Mutairi,Jeddah,West,Fashion,Jewelry,21K Gold Eid Necklace Set,6799,1,2450
+SA-2025-056,21/03/2025,Khalid Al-Shahrani,Riyadh,Central,Electronics,Laptops,MacBook Air M3 256GB,6499,1,1899
+SA-2025-057,22/03/2025,Layan Al-Subaie,Jeddah,West,Beauty,Makeup Set,Dior Full Eid Makeup Collection,2599,1,1080
+SA-2025-058,23/03/2025,Omar Al-Ajmi,Makkah,West,Home,Furniture,Luxury 10-Seater Sofa Set,6999,1,2200
+SA-2025-059,24/03/2025,Hala Al-Qahtani,Jeddah,West,Electronics,Gaming,PS5 Pro Eid Bundle,3199,1,980
+SA-2025-060,25/03/2025,Abdulaziz Al-Otaibi,Riyadh,Central,Fashion,Men Clothing,Eid Luxury Bisht Premium,3299,1,1290
+SA-2025-061,26/03/2025,Nouf Al-Zahrani,Jeddah,West,Beauty,Perfumes,Chanel Coco Mademoiselle 100ml,949,1,400
+SA-2025-062,27/03/2025,Saud Al-Ghamdi,Dammam,East,Home Appliances,Washer Dryer Combo,12kg Combo Eid Deal,5399,1,1690
+SA-2025-063,28/03/2025,Mai Al-Harbi,Jeddah,West,Fashion,Women Clothing,Eid Evening Gown Silk,2899,1,1180
+SA-2025-064,29/03/2025,Bader Al-Dosari,Riyadh,Central,Electronics,Mobile Phones,Samsung S24 Ultra Eid Offer,5999,1,1750
+SA-2025-065,30/03/2025,Lina Al-Qurashi,Jeddah,West,Beauty,Skincare,La Prairie Luxury Set,3399,1,1390
+SA-2025-066,31/03/2025,Faisal Al-Shammari,Makkah,West,Home,Furniture,Marble Dining Table 12 Seats,6799,1,2150
+SA-2025-067,01/04/2025,Shaden Al-Nasser,Jeddah,West,Fashion,Jewelry,Cartier-Style Love Bracelet,4999,1,1850
+SA-2025-068,02/04/2025,Turki Al-Mutairi,Riyadh,Central,Electronics,Laptops,Asus ROG Strix G16,6799,1,1950
+SA-2025-069,03/04/2025,Amal Al-Ghamdi,Jeddah,West,Beauty,Perfumes,Tom Ford Oud Wood 100ml,899,1,380
+SA-2025-070,04/04/2025,Yara Al-Harbi,Dammam,East,Home Appliances,Refrigerator,Side-by-Side 700L Eid,6399,1,1990
+SA-2025-071,05/04/2025,Ahmad Al-Qahtani,Jeddah,West,Electronics,Mobile Phones,Google Pixel 9 Pro,4199,1,1290
+SA-2025-072,06/04/2025,Rawan Al-Zahrani,Riyadh,Central,Fashion,Women Clothing,Eid Maxi Dress Designer,2799,1,1150
+SA-2025-073,07/04/2025,Hind Al-Otaibi,Jeddah,West,Beauty,Makeup Set,Fenty Beauty Full Set,1999,1,820
+SA-2025-074,08/04/2025,Sultan Al-Shahrani,Makkah,West,Home,Furniture,King Bedroom Set Complete,6899,1,2190
+SA-2025-075,09/04/2025,Nora Al-Dosari,Jeddah,West,Electronics,Accessories,Apple Watch Ultra 2,3299,1,1050
+SA-2025-076,10/04/2025,Khalid Al-Ajmi,Riyadh,Central,Fashion,Men Clothing,Eid Tailored Suit Italian,3999,1,1490
+SA-2025-077,11/04/2025,Leen Al-Ghamdi,Jeddah,West,Beauty,Perfumes,Maison Francis Baccarat Rouge Clone,799,2,360
+SA-2025-078,12/04/2025,Mohammed Al-Qurashi,Dammam,East,Electronics,Laptops,Lenovo Legion Pro 5i,6599,1,1890
+SA-2025-079,13/04/2025,Fatima Al-Harbi,Jeddah,West,Fashion,Jewelry,Diamond Stud Earrings 0.5ct,5799,1,2150
+SA-2025-080,14/04/2025,Sara Al-Mutairi,Riyadh,Central,Home Appliances,Air Conditioner,24K BTU Split Eid Deal,3899,1,1250
+SA-2025-081,15/04/2025,Ali Al-Zahrani,Jeddah,West,Electronics,Mobile Phones,Vivo X100 Pro,4499,1,1350
+SA-2025-082,16/04/2025,Reem Al-Otaibi,Makkah,West,Beauty,Skincare,Drunk Elephant Full Routine,2299,1,950
+SA-2025-083,17/04/2025,Abdulrahman Al-Shammari,Jeddah,West,Fashion,Women Clothing,Eid Cape Abaya Luxury,3199,1,1290
+SA-2025-084,18/04/2025,Lama Al-Qahtani,Riyadh,Central,Electronics,Gaming,Xbox Series X + Game Pass,2799,1,880
+SA-2025-085,19/04/2025,Omar Al-Ghamdi,Jeddah,West,Beauty,Perfumes,Arabian Oud Madawi 100ml,749,1,320
+SA-2025-086,20/04/2025,Hind Al-Dosari,Dammam,East,Home,Furniture,Modern Office Desk + Chair,3699,1,1290
+SA-2025-087,21/04/2025,Turki Al-Harbi,Jeddah,West,Electronics,Laptops,Surface Pro 11,5999,1,1790
+SA-2025-088,22/04/2025,Leen Al-Zahrani,Riyadh,Central,Fashion,Men Clothing,Eid Perfume + Thobe Set,1899,1,780
+SA-2025-089,23/04/2025,Sultan Al-Qurashi,Jeddah,West,Beauty,Makeup Set,Too Faced Eid Palette Set,1699,1,720
+SA-2025-090,24/04/2025,Nouf Al-Ajmi,Makkah,West,Home Appliances,Smart TV,"75"" 8K Mini LED",6999,1,2150
+SA-2025-091,25/04/2025,Yousef Al-Shahrani,Jeddah,West,Electronics,Mobile Phones,OnePlus 13,3999,1,1250
+SA-2025-092,26/04/2025,Maha Al-Ghamdi,Riyadh,Central,Fashion,Jewelry,Tennis Bracelet 18K,6199,1,2250
+SA-2025-093,27/04/2025,Amal Al-Otaibi,Jeddah,West,Beauty,Perfumes,Jo Malone English Pear 100ml,899,1,380
+SA-2025-094,28/04/2025,Bader Al-Harbi,Dammam,East,Electronics,Laptops,MSI Katana 15 Gaming,5799,1,1690
+SA-2025-095,29/04/2025,Rawan Al-Qahtani,Jeddah,West,Fashion,Women Clothing,Post-Eid Casual Set,999,2,420
+SA-2025-096,30/04/2025,Faisal Al-Dosari,Riyadh,Central,Home,Furniture,Recliner Leather Chair,4599,1,1490
+SA-2025-097,30/04/2025,Layan Al-Zahrani,Jeddah,West,Beauty,Skincare,Post-Eid Hydration Set,1199,1,520
+SA-2025-098,30/04/2025,Khaled Al-Ghamdi,Makkah,West,Electronics,Mobile Phones,Xiaomi 14 Ultra,4899,1,1450
+SA-2025-099,30/04/2025,Shaden Al-Mutairi,Jeddah,West,Fashion,Men Clothing,Summer Light Thobe,499,3,220
+SA-2025-100,30/04/2025,Hassan Al-Shammari,Riyadh,Central,Home Appliances,Washer,10kg Front Load Quiet,3199,1,1050
+SA-2025-101,03/05/2025,Mariam Al-Qurashi,Jeddah,West,Electronics,Mobile Phones,Samsung Galaxy A35,1599,1,520
+SA-2025-102,07/05/2025,Abdulaziz Al-Otaibi,Riyadh,Central,Fashion,Men Clothing,Summer Linen Thobe,599,2,260
+SA-2025-103,10/05/2025,Dana Al-Harbi,Jeddah,West,Beauty,Skincare,Summer Sunscreen + Hydration Set,799,1,340
+SA-2025-104,14/05/2025,Saad Al-Zahrani,Makkah,West,Home Appliances,Air Conditioner,Portable AC 14K BTU,2499,1,820
+SA-2025-105,18/05/2025,Lina Al-Ghamdi,Jeddah,West,Electronics,Accessories,Anker 20000mAh Power Bank,399,3,180
+SA-2025-106,22/05/2025,Rayan Al-Ajmi,Dammam,East,Fashion,Women Clothing,Light Summer Maxi Dress,699,2,300
+SA-2025-107,27/05/2025,Hala Al-Qahtani,Jeddah,West,Electronics,Laptops,Lenovo IdeaPad 3 Student,3199,1,980
+SA-2025-108,31/05/2025,Tariq Al-Dosari,Riyadh,Central,Home,Furniture,Foldable Outdoor Table Set,1899,1,680
+SA-2025-109,05/06/2025,Aseel Al-Shahrani,Jeddah,West,Beauty,Perfumes,Light Aquatic Summer Fragrance,499,2,220
+SA-2025-110,09/06/2025,Nasser Al-Mutairi,Makkah,West,Home Appliances,Fan,Tower Fan with Remote,599,1,250
+SA-2025-111,13/06/2025,Salma Al-Otaibi,Jeddah,West,Electronics,Mobile Phones,Realme Narzo 70 Pro,1899,1,620
+SA-2025-112,17/06/2025,Fahad Al-Ghamdi,Riyadh,Central,Fashion,Men Clothing,Summer Short Dishdasha,449,3,200
+SA-2025-113,21/06/2025,Jouri Al-Harbi,Jeddah,West,Beauty,Makeup Set,Waterproof Summer Makeup Kit,999,1,420
+SA-2025-114,25/06/2025,Bandar Al-Zahrani,Dammam,East,Electronics,Gaming,Nintendo Switch Lite,1199,1,480
+SA-2025-115,29/06/2025,Latifa Al-Qurashi,Jeddah,West,Home,Furniture,Beach Chair Set of 4,899,1,380
+SA-2025-116,03/07/2025,Mansour Al-Shammari,Riyadh,Central,Electronics,Tablets,Samsung Galaxy Tab A9,1399,1,520
+SA-2025-117,07/07/2025,Raneem Al-Dosari,Jeddah,West,Fashion,Women Clothing,Swimwear Cover-up Kaftan,549,2,240
+SA-2025-118,11/07/2025,Waleed Al-Ajmi,Makkah,West,Home Appliances,Air Conditioner,Window AC 18K BTU,2299,1,780
+SA-2025-119,15/07/2025,Ghada Al-Ghamdi,Jeddah,West,Beauty,Perfumes,Cool Water Type Summer,399,3,180
+SA-2025-120,19/07/2025,Abdullah Al-Otaibi,Riyadh,Central,Electronics,Mobile Phones,Xiaomi Redmi Note 14,1799,1,580
+SA-2025-121,23/07/2025,Shahad Al-Zahrani,Jeddah,West,Fashion,Jewelry,Minimal Silver Anklet Set,799,1,340
+SA-2025-122,27/07/2025,Yara Al-Qurashi,Dammam,East,Home,Furniture,Camping Chair Folding,499,2,220
+SA-2025-123,31/07/2025,Ziad Al-Harbi,Jeddah,West,Electronics,Accessories,JBL Charge 5 Speaker,999,1,420
+SA-2025-124,04/08/2025,Maram Al-Shammari,Riyadh,Central,Beauty,Skincare,Oil-Control Summer Set,699,1,300
+SA-2025-125,08/08/2025,Lama Al-Ghamdi,Jeddah,West,Fashion,Women Clothing,Summer Linen Abaya,899,1,380
+SA-2025-126,12/08/2025,Fahad Al-Dosari,Makkah,West,Electronics,Laptops,HP Pavilion 14 Light,3699,1,1100
+SA-2025-127,15/08/2025,Nada Al-Qahtani,Jeddah,West,Beauty,Perfumes,Rasasi Hawas 100ml,549,2,240
+SA-2025-128,16/08/2025,Sami Al-Zahrani,Riyadh,Central,Home Appliances,Air Cooler,Large Air Cooler 60L,1399,1,520
+SA-2025-129,16/08/2025,Rania Al-Otaibi,Jeddah,West,Fashion,Men Clothing,Light Summer Bisht,1199,1,520
+SA-2025-130,16/08/2025,Talal Al-Ghamdi,Dammam,East,Electronics,Mobile Phones,Oppo A79 5G,1299,1,480
+SA-2025-131,17/08/2025,Reema Al-Harbi,Jeddah,West,Beauty,Makeup Set,Matte Summer Look Set,899,1,380
+SA-2025-132,17/08/2025,Khalid Al-Mutairi,Riyadh,Central,Home,Furniture,Portable BBQ Grill,799,1,340
+SA-2025-133,17/08/2025,Layan Al-Shahrani,Jeddah,West,Electronics,Gaming,Logitech G29 Racing Wheel,1799,1,620
+SA-2025-134,18/08/2025,Omar Al-Ajmi,Makkah,West,Fashion,Women Clothing,Beach Kaftan Printed,599,2,260
+SA-2025-135,18/08/2025,Hala Al-Qurashi,Jeddah,West,Beauty,Perfumes,Versace Dylan Blue 100ml,649,1,280
+SA-2025-136,18/08/2025,Abdulaziz Al-Zahrani,Riyadh,Central,Electronics,Laptops,Acer Aspire 5 i5,3399,1,1050
+SA-2025-137,19/08/2025,Nouf Al-Dosari,Jeddah,West,Fashion,Jewelry,Shell Necklace Set,699,1,300
+SA-2025-138,19/08/2025,Saud Al-Ghamdi,Dammam,East,Home Appliances,Air Conditioner,18K BTU Portable,2699,1,880
+SA-2025-139,19/08/2025,Mai Al-Otaibi,Jeddah,West,Electronics,Mobile Phones,Vivo Y28,1099,1,420
+SA-2025-140,20/08/2025,Bader Al-Harbi,Riyadh,Central,Fashion,Men Clothing,Summer Polo Shirt Pack 5,799,1,350
+SA-2025-141,20/08/2025,Lina Al-Qahtani,Jeddah,West,Beauty,Skincare,Acne Summer Treatment Set,899,1,380
+SA-2025-142,20/08/2025,Faisal Al-Shammari,Makkah,West,Home,Furniture,Inflatable Pool Lounge,599,1,260
+SA-2025-143,21/08/2025,Shaden Al-Zahrani,Jeddah,West,Electronics,Accessories,Sony WF-1000XM5,1399,1,520
+SA-2025-144,21/08/2025,Rawan Al-Qahtani,Riyadh,Central,Fashion,Women Clothing,Summer Shorts Set,499,3,220
+SA-2025-145,21/08/2025,Khaled Al-Ghamdi,Jeddah,West,Home Appliances,Fan,"Ceiling Fan 56"" Silent",1199,1,480
+SA-2025-146,22/08/2025,Hassan Al-Shammari,Dammam,East,Electronics,Mobile Phones,Infinix Hot 50 Pro,1499,1,520
+SA-2025-147,22/08/2025,Mariam Al-Qurashi,Jeddah,West,Beauty,Perfumes,Zara Vibrant Leather Type,399,2,180
+SA-2025-148,22/08/2025,Abdulaziz Al-Otaibi,Riyadh,Central,Fashion,Men Clothing,Summer Cap Pack 3,299,3,135
+SA-2025-149,23/08/2025,Dana Al-Harbi,Jeddah,West,Electronics,Laptops,Honor MagicBook X14,3599,1,1080
+SA-2025-150,23/08/2025,Saad Al-Zahrani,Makkah,West,Home,Furniture,Picnic Table Folding,999,1,420
+SA-2025-151,27/08/2025,Lina Al-Ghamdi,Jeddah,West,Electronics,Laptops,Lenovo IdeaPad Student Bundle,3999,1,1180
+SA-2025-152,30/08/2025,Rayan Al-Ajmi,Riyadh,Central,Fashion,Men Clothing,Back-to-School Uniform Set,799,2,340
+SA-2025-153,02/09/2025,Hala Al-Qahtani,Jeddah,West,Electronics,Mobile Phones,Samsung A55 Back-to-School,1999,1,620
+SA-2025-154,05/09/2025,Tariq Al-Dosari,Dammam,East,Home,Furniture,Study Desk + Chair Combo,2299,1,820
+SA-2025-155,08/09/2025,Aseel Al-Shahrani,Jeddah,West,Beauty,Skincare,Teen Acne Starter Set,699,1,300
+SA-2025-156,11/09/2025,Nasser Al-Mutairi,Riyadh,Central,Electronics,Tablets,iPad 10th Gen 64GB School,2499,1,780
+SA-2025-157,14/09/2025,Salma Al-Otaibi,Jeddah,West,Fashion,Women Clothing,Winter Preview Coat,2199,1,920
+SA-2025-158,17/09/2025,Fahad Al-Ghamdi,Makkah,West,Electronics,Laptops,HP Pavilion 15 School Edition,3799,1,1120
+SA-2025-159,20/09/2025,Jouri Al-Harbi,Jeddah,West,Beauty,Perfumes,Fall Oud Collection,799,1,340
+SA-2025-160,23/09/2025,Bandar Al-Zahrani,Riyadh,Central,Fashion,Men Clothing,Winter Thobe Premium,899,2,380
+SA-2025-161,27/09/2025,Latifa Al-Qurashi,Jeddah,West,Electronics,Accessories,Apple Watch SE School,1499,1,520
+SA-2025-162,01/10/2025,Mansour Al-Shammari,Dammam,East,Home Appliances,Washer,9kg Inverter Back-to-School,2999,1,980
+SA-2025-163,05/10/2025,Raneem Al-Dosari,Jeddah,West,Fashion,Jewelry,Everyday Gold Hoops,3899,1,1490
+SA-2025-164,09/10/2025,Waleed Al-Ajmi,Riyadh,Central,Electronics,Mobile Phones,iPhone 16 Standard,5199,1,1520
+SA-2025-165,13/10/2025,Ghada Al-Ghamdi,Jeddah,West,Beauty,Makeup Set,Fall Makeup Palette Set,1399,1,580
+SA-2025-166,17/10/2025,Abdullah Al-Otaibi,Makkah,West,Home,Furniture,Bookshelf 6 Tiers,1599,1,620
+SA-2025-167,21/10/2025,Shahad Al-Zahrani,Jeddah,West,Electronics,Laptops,MacBook Air M2 512GB,6799,1,1999
+SA-2025-168,25/10/2025,Yara Al-Qurashi,Riyadh,Central,Fashion,Women Clothing,Winter Wool Abaya,2499,1,1020
+SA-2025-169,29/10/2025,Ziad Al-Harbi,Jeddah,West,Beauty,Perfumes,Black Friday Early Oud Deal,599,3,270
+SA-2025-170,02/11/2025,Maram Al-Shammari,Dammam,East,Electronics,Mobile Phones,Samsung S24 Black Friday,4999,1,1490
+SA-2025-171,05/11/2025,Lama Al-Ghamdi,Jeddah,West,Fashion,Jewelry,Black Friday 18K Gold Set,6599,1,2390
+SA-2025-172,08/11/2025,Fahad Al-Dosari,Riyadh,Central,Electronics,Laptops,Asus ROG Black Friday,6399,1,1890
+SA-2025-173,11/11/2025,Nada Al-Qahtani,Jeddah,West,Beauty,Perfumes,Black Friday Luxury Set 3pcs,1899,1,820
+SA-2025-174,14/11/2025,Sami Al-Zahrani,Makkah,West,Home Appliances,Smart TV,"65"" OLED Black Friday",6799,1,2100
+SA-2025-175,17/11/2025,Rania Al-Otaibi,Jeddah,West,Fashion,Women Clothing,Black Friday Designer Coat,2999,1,1250
+SA-2025-176,20/11/2025,Talal Al-Ghamdi,Riyadh,Central,Electronics,Gaming,PS5 Pro Black Friday Bundle,3399,1,1050
+SA-2025-177,23/11/2025,Reema Al-Harbi,Jeddah,West,Beauty,Skincare,Black Friday La Mer Set,4199,1,1690
+SA-2025-178,25/11/2025,Khalid Al-Mutairi,Dammam,East,Home,Furniture,Black Friday Sofa 3-Seater,5999,1,1890
+SA-2025-179,27/11/2025,Layan Al-Shahrani,Jeddah,West,Electronics,Mobile Phones,iPhone 16 Pro Black Friday,6199,1,1799
+SA-2025-180,28/11/2025,Omar Al-Ajmi,Riyadh,Central,Fashion,Men Clothing,Black Friday Luxury Bisht,3499,1,1390
+SA-2025-181,28/11/2025,Hala Al-Qurashi,Jeddah,West,Beauty,Makeup Set,Black Friday Full Collection,2299,1,980
+SA-2025-182,28/11/2025,Abdulaziz Al-Zahrani,Makkah,West,Electronics,Laptops,MacBook Pro M3 Black Friday,6999,1,2100
+SA-2025-183,29/11/2025,Nouf Al-Dosari,Jeddah,West,Fashion,Jewelry,Black Friday Diamond Ring,5799,1,2150
+SA-2025-184,29/11/2025,Saud Al-Ghamdi,Riyadh,Central,Home Appliances,Refrigerator,Black Friday Side-by-Side,6399,1,1990
+SA-2025-185,29/11/2025,Mai Al-Otaibi,Jeddah,West,Electronics,Mobile Phones,Samsung Z Fold6 Deal,6799,1,1950
+SA-2025-186,30/11/2025,Bader Al-Harbi,Dammam,East,Fashion,Women Clothing,Black Friday Evening Dress,2799,1,1150
+SA-2025-187,30/11/2025,Lina Al-Qahtani,Jeddah,West,Beauty,Perfumes,Black Friday Oud Collection,899,2,400
+SA-2025-188,01/12/2025,Faisal Al-Shammari,Riyadh,Central,Electronics,Gaming,Xbox Series X Black Friday,2599,1,820
+SA-2025-189,01/12/2025,Shaden Al-Zahrani,Jeddah,West,Fashion,Men Clothing,Winter Jacket Leather,2899,1,1180
+SA-2025-190,01/12/2025,Rawan Al-Qahtani,Makkah,West,Home,Furniture,End-of-Year Dining Set,6499,1,2050
+SA-2025-191,02/12/2025,Khaled Al-Ghamdi,Jeddah,West,Electronics,Mobile Phones,iPhone 16 Pro Max Final Deal,6599,1,1899
+SA-2025-192,02/12/2025,Hassan Al-Shammari,Riyadh,Central,Beauty,Perfumes,Year-End Gift Set Luxury,1499,1,620
+SA-2025-193,02/12/2025,Mariam Al-Qurashi,Jeddah,West,Fashion,Jewelry,Year-End Gold Bracelet,5399,1,1990
+SA-2025-194,02/12/2025,Abdulaziz Al-Otaibi,Dammam,East,Electronics,Laptops,Final Gaming Laptop Deal,6199,1,1790
+SA-2025-195,02/12/2025,Dana Al-Harbi,Jeddah,West,Beauty,Makeup Set,Year-End Full Collection,2199,1,920
+SA-2025-196,02/12/2025,Saad Al-Zahrani,Riyadh,Central,Home Appliances,Smart TV,"Final 75"" Deal",6699,1,2050
+SA-2025-197,02/12/2025,Lina Al-Ghamdi,Jeddah,West,Fashion,Women Clothing,Year-End Winter Coat,2599,1,1080
+SA-2025-198,02/12/2025,Rayan Al-Ajmi,Makkah,West,Electronics,Mobile Phones,Samsung S25 Pre-Order Bonus,6999,1,1999
+SA-2025-199,02/12/2025,Hala Al-Qahtani,Jeddah,West,Beauty,Perfumes,Last Day Luxury Set,1799,1,750
+SA-2025-200,02/12/2025,Tariq Al-Dosari,Riyadh,Central,Fashion,Men Clothing,Final Luxury Bisht 2025,3999,1,1590
